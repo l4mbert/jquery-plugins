@@ -1,4 +1,3 @@
-jquery-plugins
-==============
+# jQuery plugins
 
-jQuery plugins for dynamic site content
+ As used by L4mbert at [http://primate.co.uk](Primate).
