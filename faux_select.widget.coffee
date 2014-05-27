@@ -1,3 +1,7 @@
+###
+Faux select - Wrap <select> elements in markup, which allows you to create styled select lists.
+Version: 1.0.0
+###
 (($) ->
 
   $.widget 'l4mbert.faux_select', {
