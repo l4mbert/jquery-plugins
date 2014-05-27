@@ -28,9 +28,17 @@ Converts `<select>` elements to faux select markup, and then updates the origina
 
 **collapsible_section.widget.coffee**
 
+### Versions
+
+1.0.0 - Original version.
+
 ## Collapsible section list
 
 **collapsible_section_list.widget.coffee**
+
+### Versions
+
+1.0.0 - Original version taken from changemyname.to project.
 
 ## Checkbox list to select
 
@@ -40,18 +48,30 @@ Converts a list of checkboxes into a `<select>` element, and then hides the chec
 
 ### Versions
 
-1.0.0 - Original version taken from changemyname.to project.
+1.0.0 - Original version.
 
 ## Google map
 
 **google_map.widget.coffee**
 
+### Versions
+
+1.0.0 - Original version taken from Cobalt Park project.
+
 ## Radio displayed content
 
 **radio_displayed_content.widget.coffee**
 
+### Versions
+
+1.0.0 - Original version.
+
 ## Right slide in panel
 
 **right_slide_in_panel.widget.coffee**
+
+### Versions
+
+1.0.0 - Original version taken from CoPro project.
 
 Sidebar which slides in from the right of the page, content hidden offscreen.  Currently in development.

@@ -1,3 +1,6 @@
+###
+Version: 1.0.0
+###
 (($) ->
 
   $.widget 'primate.right_slide_in_panel', {

@@ -1,3 +1,6 @@
+###
+Version: 1.0.0
+###
 (($) ->
 
   $.widget 'l4mbert.collapsible_section', {
